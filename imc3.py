@@ -20,5 +20,5 @@ elif 25<imc>30:
 elif imc>30 :
     st.warning("obése")
 else:
-    st.info("ceci n'est pas un nombre")
+    st.info("La taille doit etre superieur à 0")
     
